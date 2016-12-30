@@ -7,7 +7,7 @@ Design files of antennas used in my researches and projects.
 
 #### Radiation Pattern
 ##### E-plane
-![E-plane](https://raw.githubusercontent.com/rookiepeng/Antenna-Design/master/img/farfield/patternE_1.58G_planarMonopole_EdgeFed_FR4.svg)
+![E-plane](https://rawgit.com/rookiepeng/Antenna-Design/master/img/farfield/patternE_1.58G_planarMonopole_EdgeFed_FR4.svg)
 ##### H-plane
 
 ### 2.4 GHz Edge-Fed Patch Antenna (2.4G_Patch_EdgeFed_FR4.cst)

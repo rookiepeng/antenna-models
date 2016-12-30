@@ -5,6 +5,11 @@ Design files of antennas used in my researches and projects.
 
 ### 1.58 GHz Planar Monopole Antenna (1.58G_planarMonopole_EdgeFed_FR4.cst)
 
+#### Radiation Pattern
+##### E-plane
+![E-plane](https://raw.githubusercontent.com/rookiepeng/Antenna-Design/master/img/farfield/patternE_1.58G_planarMonopole_EdgeFed_FR4.svg)
+##### H-plane
+
 ### 2.4 GHz Edge-Fed Patch Antenna (2.4G_Patch_EdgeFed_FR4.cst)
 
 ### 5.8 GHz Edge-Fed Patch Antenna (5.8G_Patch_EdgeFet_FR4.cst)

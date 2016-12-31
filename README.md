@@ -1,7 +1,7 @@
 # Antenna Design
 Design files of antennas used in my researches and projects.
 
-**Designed and simulated by [CST - Computer Simulation Technology](https://www.cst.com/)**
+**Designed and simulated by <a href="https://www.cst.com/" target="_blank">CST - Computer Simulation Technology</a>**
 
 ## 1.58 GHz Planar Monopole Antenna
 *1.58G_planarMonopole_EdgeFed_FR4.cst*

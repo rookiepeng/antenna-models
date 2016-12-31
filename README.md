@@ -72,6 +72,24 @@ Design files of antennas used in my researches and projects.
 #### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_6G_2x2Patch_EdgeFed_FR4.svg" width="300">
 
+## 6 GHz Edge-Fed 4x4 Patch Array
+*6G_4x4Patch_EdgeFed_FR4.cst* (Due to the loss of FR4, the actual performance of this design is worse than the 6 GHz Edge-Fed 2x2 Patch Array.)
+
+### Material
+0.062 inch FR4 with 1 oz copper.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/6G_4x4Patch_EdgeFed_FR4.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+<img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternE_6G_4x4Patch_EdgeFed_FR4.svg" width="300">
+
+#### H-plane (Degree vs. dBi)
+<img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_6G_4x4Patch_EdgeFed_FR4.svg" width="300">
+
+
 ## 24 GHz 1x5 Series-Fed Array
 *24G_1x5Series_EdgeFed_RT5880.cst*
 

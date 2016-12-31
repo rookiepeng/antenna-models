@@ -79,7 +79,7 @@ Design files of antennas used in my researches and projects.
 0.062 inch FR4 with 1 oz copper.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/6G_4x4Patch_EdgeFed_FR4.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/6G_4x4Patch_EdgeFed_FR4.svg" width="500">
 
 ### Radiation Pattern
 

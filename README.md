@@ -114,7 +114,7 @@ TBD
 0.062 inch FR4 with 1 oz copper.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_top.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_front.svg" width="300">
 Front view
 
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_back.svg" width="300">

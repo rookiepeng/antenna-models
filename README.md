@@ -3,7 +3,7 @@ Design files of antennas used in my researches and projects.
 
 **Designed and simulated by [CST - Computer Simulation Technology](https://www.cst.com/)**
 
-## 1.58 GHz Planar Monopole Antenna
+## 1.58 GHz Planar Monopole Antenna on FR4
 *1.58G_planarMonopole_EdgeFed_FR4.cst*
 
 ### Material
@@ -21,7 +21,59 @@ Design files of antennas used in my researches and projects.
 #### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
 
-## 2.4 GHz Edge-Fed Patch Antenna
+## 1.575 GHz Circularly-Polarized Patch on Air
+*1.575G_CircularlyPolarizedPatch_BottomFed_Air.cst*
+
+### Material
+Air
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.575G_CircularlyPolarizedPatch_BottomFed_Air.png" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.575G_CircularlyPolarizedPatch_BottomFed_Air_side.png" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 1.575 GHz Circularly-Polarized Patch on FR4
+*1.575G_CircularlyPolarizedPatch_BottomFed_FR4.cst*
+
+### Material
+2 mm FR4 with 1 oz copper.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.575G_CircularlyPolarizedPatch_BottomFed_FR4.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 1.575 GHz Patch on FR4
+*1.575G_Patch_BottomFed_FR4.cst*
+
+### Material
+2 mm FR4 with 1 oz copper.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.575G_Patch_BottomFed_FR4.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 2.4 GHz Edge-Fed Patch Antenna on FR4
 *2.4G_Patch_EdgeFed_FR4.cst*
 
 ### Material

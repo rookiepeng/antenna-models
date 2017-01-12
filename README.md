@@ -107,6 +107,27 @@ TBD
 #### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_5.8G_Patch_EdgeFed_FR4.svg" width="300">
 
+## 5.8 GHz Edge-Fed Vivaldi Antenna on FR4
+*5.8G_Vivaldi_EdgeFed_FR4.cst*
+
+### Material
+0.062 inch FR4 with 1 oz copper.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_top.svg" width="300">
+Front view
+
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_back.svg" width="300">
+Back view
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
 ## 6 GHz Edge-Fed 2x2 Patch Array on FR4
 *6G_2x2Patch_EdgeFed_FR4.cst*
 
@@ -141,6 +162,22 @@ TBD
 #### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_6G_4x4Patch_EdgeFed_FR4.svg" width="300">
 
+## 9 GHz Slot Antenna with Grooves
+*9G_SlotAntennaWithGrooves_WaveguideFed.cst*
+
+### Material
+Metal.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/9G_SlotAntennaWithGrooves_WaveguideFed.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
 
 ## 24 GHz Edge-Fed 1x5 Series-Fed Array
 *24G_1x5Series_EdgeFed_RT5880.cst*

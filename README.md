@@ -179,7 +179,41 @@ TBD
 #### H-plane (Degree vs. dBi)
 TBD
 
-## 24 GHz Edge-Fed 1x5 Series-Fed Array
+## 10.3 GHz Bull-Eye Antenna
+*10.3G_BullEye_WaveguideFed.cst*
+
+### Material
+Metal.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/10.3G_BullEye_WaveguideFed.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 10.3 GHz Bull-Eye Antenna with Surface Metal
+*10.3G_BullEye_WaveguideFed_SurfaceMetal.cst*
+
+### Material
+Plastic with Metal Surface
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/10.3G_BullEye_WaveguideFed_SurfaceMetal.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 1x5 Series-Fed Array on RT5880
 *24G_1x5Series_EdgeFed_RT5880.cst*
 
 ### Material

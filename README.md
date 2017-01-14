@@ -128,10 +128,10 @@ TBD
 0.062 inch FR4 with 1 oz copper.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_front.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_front.svg" width="200">
 Front view
 
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_back.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Vivaldi_EdgeFed_FR4_back.svg" width="200">
 Back view
 
 ### Radiation Pattern
@@ -285,7 +285,7 @@ TBD
 0.01 inch Rogers RT/duroid 5880.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x2Patch_EdgeFed_RT5880.svg" width="150">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x2Patch_EdgeFed_RT5880.svg" width="300">
 
 ### Radiation Pattern
 
@@ -345,3 +345,105 @@ TBD
 
 #### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_24G_1x5Series_EdgeFed_RT5880.svg" width="300">
+
+## 24 GHz Edge-Fed 2x2 Patch Array on RO3006
+*24G_2x2Patch_EdgeFed_RO3006.cst*
+
+### Material
+0.01 inch Rogers RO3006.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x2Patch_EdgeFed_RO3006.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 2x2 Patch Array on RT5880
+*24G_2x2Patch_EdgeFed_RT5880.cst*
+
+### Material
+0.01 inch Rogers RT/duroid 5880.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x2Patch_EdgeFed_RT5880.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 2x4 Patch Array on RO3006
+*24G_2x4Patch_EdgeFed_RO3006.cst*
+
+### Material
+0.01 inch Rogers RO3006.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x4Patch_EdgeFed_RO3006.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 2x4 Patch Array on RT5880
+*24G_2x4Patch_EdgeFed_RT5880.cst*
+
+### Material
+0.01 inch Rogers RT/duroid 5880.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x4Patch_EdgeFed_RT5880.svg" width="300">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 2x4 Patch Array on RO3006
+*24G_4x4Patch_EdgeFed_RO3006.cst*
+
+### Material
+0.01 inch Rogers RO3006.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_4x4Patch_EdgeFed_RO3006.svg" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 4x4 Patch Array on RT5880
+*24G_4x4Patch_EdgeFed_RT5880.cst*
+
+### Material
+0.01 inch Rogers RT/duroid 5880.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_4x4Patch_EdgeFed_RT5880.svg" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD

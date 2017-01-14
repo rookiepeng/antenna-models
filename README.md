@@ -285,7 +285,7 @@ TBD
 0.01 inch Rogers RT/duroid 5880.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x2Patch_EdgeFed_RT5880.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x2Patch_EdgeFed_RT5880.svg" width="150">
 
 ### Radiation Pattern
 
@@ -387,7 +387,7 @@ TBD
 0.01 inch Rogers RO3006.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x4Patch_EdgeFed_RO3006.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x4Patch_EdgeFed_RO3006.svg" width="500">
 
 ### Radiation Pattern
 
@@ -404,7 +404,7 @@ TBD
 0.01 inch Rogers RT/duroid 5880.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x4Patch_EdgeFed_RT5880.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_2x4Patch_EdgeFed_RT5880.svg" width="500">
 
 ### Radiation Pattern
 

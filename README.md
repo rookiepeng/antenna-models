@@ -176,6 +176,23 @@ TBD
 #### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_6G_4x4Patch_EdgeFed_FR4.svg" width="300">
 
+## 8-12 GHz Circular Horn Antenna
+*8-12G_CircularHorn_WaveguideFed.cst*
+
+### Material
+Metal.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/8-12G_CircularHorn_WaveguideFed.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
 ## 9 GHz Slot Antenna with Grooves
 *9G_SlotAntennaWithGrooves_WaveguideFed.cst*
 
@@ -218,6 +235,91 @@ Plastic with Metal Surface
 
 ### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/10.3G_BullEye_WaveguideFed_SurfaceMetal.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 11-15 GHz Square Horn Antenna with Dielectric Lens 1
+*11-15G_SquareHorn1_WaveguideFed.cst*
+
+### Material
+Metal
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/11-15G_SquareHorn1_WaveguideFed.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 11-15 GHz Square Horn Antenna with Dielectric Lens 2
+*11-15G_SquareHorn2_WaveguideFed.cst*
+
+### Material
+Metal
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/11-15G_SquareHorn2_WaveguideFed.png" width="500">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 1x2 Patch Array on RT5880
+*24G_1x2Patch_EdgeFed_RT5880.cst*
+
+### Material
+0.01 inch Rogers RT/duroid 5880.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x2Patch_EdgeFed_RT5880.svg" width="150">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 1x3 Series-Fed Array on RO3006
+*24G_1x3Series_EdgeFed_RO3006.cst*
+
+### Material
+0.01 inch Rogers RO3006.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x3Series_EdgeFed_RO3006.svg" width="150">
+
+### Radiation Pattern
+
+#### E-plane (Degree vs. dBi)
+TBD
+
+#### H-plane (Degree vs. dBi)
+TBD
+
+## 24 GHz Edge-Fed 1x5 Series-Fed Array on RO3006
+*24G_1x5Series_EdgeFed_RO3006.cst*
+
+### Material
+0.01 inch Rogers RO3006.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x5Series_EdgeFed_RO3006.svg" width="150">
 
 ### Radiation Pattern
 

@@ -113,6 +113,7 @@ Air
 
 ### 6 GHz Edge-Fed 4x4 Patch Array on FR4</a>
 *(Patch Antenna/6G_4x4Patch_EdgeFed_FR4.cst)*
+
 **(Due to the loss of FR4, the actual performance of this design is worse than the 6 GHz Edge-Fed 2x2 Patch Array.)**
 
 #### Material

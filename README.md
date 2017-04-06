@@ -36,7 +36,6 @@ Design files of antennas used in my researches and projects.
 - [Slot Antenna](#Slot-Antenna)
     - [9 GHz Slot Antenna with Grooves](#9-ghz-slot-antenna-with-grooves)
     - [10.3 GHz Bull-Eye Antenna](#103-ghz-bull-eye-antenna)
-    - [10.3 GHz Bull-Eye Antenna with Surface Metal](#103-ghz-bull-eye-antenna-with-surface-metal)
     - [24 GHz SIW-Fed Slot Antenna on RO3003](#24-ghz-siw-fed-slot-antenna-on-ro3003)
 
 <a name="Patch-Antenna"/>
@@ -378,17 +377,6 @@ Metal.
 
 #### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/10.3G_BullEye_WaveguideFed.png" width="500">
-
-<a name="103-ghz-bull-eye-antenna-with-surface-metal"/>
-
-### 10.3 GHz Bull-Eye Antenna with Surface Metal</a>
-*(Slot Antenna/10.3G_BullEye_WaveguideFed_SurfaceMetal.cst)*
-
-#### Material
-Plastic with Metal Surface
-
-#### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/10.3G_BullEye_WaveguideFed_SurfaceMetal.png" width="500">
 
 <a name="24-ghz-siw-fed-slot-antenna-on-ro3003"/>
 

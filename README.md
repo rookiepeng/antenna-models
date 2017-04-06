@@ -294,10 +294,10 @@ Air
 0.062 inch FR4 with 1 oz copper.
 
 #### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/5.8G_Vivaldi_EdgeFed_FR4_front.png" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/5.8G_Vivaldi_EdgeFed_FR4_front.png" width="250">
 Front view
 
-<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/5.8G_Vivaldi_EdgeFed_FR4_back.png" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/5.8G_Vivaldi_EdgeFed_FR4_back.png" width="250">
 Back view
 
 <a name="24-ghz-edge-fed-vilvaldi-antenna-on-rt5880"/>
@@ -309,10 +309,10 @@ Back view
 0.01 inch Rogers RT/duroid 5880.
 
 #### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/24G_Vivaldi_EdgeFed_RT5880_front.png" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/24G_Vivaldi_EdgeFed_RT5880_front.png" width="250">
 Front view
 
-<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/24G_Vivaldi_EdgeFed_RT5880_back.png" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/Vivaldi-Antenna/24G_Vivaldi_EdgeFed_RT5880_back.png" width="250">
 Back view
 
 <a name="Horn-Antenna"/>

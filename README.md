@@ -22,6 +22,8 @@ Design files of antennas used in my researches and projects.
     - [24 GHz Edge-Fed 2x4 Patch Array on RO3006](#24-ghz-edge-fed-2x4-patch-array-on-ro3006)
     - [24 GHz Edge-Fed 4x4 Patch Array on RT5880](#24-ghz-edge-fed-4x4-patch-array-on-rt5880)
     - [24 GHz Edge-Fed Patch Antenna on RO3003](#24-ghz-edge-fed-patch-antenna-on-ro3003)
+    - [24 GHz Edge-Fed Square Patch Antenna on RO3003](#24-ghz-edge-fed-square-patch-antenna-on-ro3003)
+    - [24 GHz Edge-Fed Circular Patch Antenna on RO3003](#24-ghz-edge-fed-circular-patch-antenna-on-ro3003)
     - [24 GHz Edge-Fed Patch Antenna on RO3006](#24-ghz-edge-fed-patch-antenna-on-ro3006)
     - [24 GHz Edge-Fed Patch Antenna on RT5880](#24-ghz-edge-fed-patch-antenna-on-rt5880)
 - [Monopole Antenna](#Monopole-Antenna)
@@ -242,6 +244,28 @@ Air
 
 #### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/Patch-Antenna/24G_Patch_EdgeFed_RO3003.svg" width="200">
+
+<a name="24-ghz-edge-fed-square-patch-antenna-on-ro3003"/>
+
+### 24 GHz Edge-Fed Square Patch Antenna on RO3003</a>
+*(Patch Antenna/24G_SquarePatch_EdgeFed_RO3003.cst)*
+
+#### Material
+0.01 inch Rogers RO3003.
+
+#### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/Patch-Antenna/24G_SquarePatch_EdgeFed_RO3003.svg" width="200">
+
+<a name="24-ghz-edge-fed-circular-patch-antenna-on-ro3003"/>
+
+### 24 GHz Edge-Fed Circular Patch Antenna on RO3003</a>
+*(Patch Antenna/24G_CircularPatch_EdgeFed_RO3003.cst)*
+
+#### Material
+0.01 inch Rogers RO3003.
+
+#### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/Patch-Antenna/24G_CircularPatch_EdgeFed_RO3003.svg" width="200">
 
 <a name="24-ghz-edge-fed-patch-antenna-on-ro3006"/>
 

@@ -3,7 +3,7 @@
 
 Antenna simulation models used in my researches and projects.
 
-**Designed and simulated by [CST - Computer Simulation Technology](https://www.cst.com/`**
+**Designed and simulated by [CST - Computer Simulation Technology](https://www.cst.com/)**
 
 - [Patch Antenna](#patch-antenna)
   - [1.575 GHz Back-Fed Circularly-Polarized Patch Antenna on Air</a>](#1575-ghz-back-fed-circularly-polarized-patch-antenna-on-air)

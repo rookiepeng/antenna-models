@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612.5 612.5" style="enable-background:new 0 0 612.5 612.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.71;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#F7941D;}
+</style>
+<title>24G_CircularPatch_EdgeFed_RO3003</title>
+<g id="ROGERS_RO3003_LOSSY_">
+	<g id="LWPOLYLINE">
+		<rect x="0.3" y="0.3" class="st0" width="611.8" height="611.8"/>
+	</g>
+</g>
+<g id="COPPER_PURE_">
+	<g id="LWPOLYLINE-2">
+		<path class="st1" d="M339.1,360.3l-34.2-34.2l21.2-21.2l34.2,34.2c18.2-29.9,8.7-68.8-21.2-87s-68.8-8.7-87,21.2
+			s-8.7,68.8,21.2,87C293.5,372.6,318.9,372.6,339.1,360.3z"/>
+	</g>
+	<g id="LWPOLYLINE-3">
+		<polygon class="st1" points="351.8,422.2 376.3,397.7 376.3,391.3 356.8,344.3 312.5,300 300,312.5 358.5,371.1 358.5,404.4 
+			321.8,404.4 297.4,428.9 297.4,612.1 315.1,612.1 315.1,422.2 		"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 193.5 251.6" style="enable-background:new 0 0 193.5 251.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FF9800;}
+</style>
+<title>1.58G_planarMonopole_EdgeFed_FR4</title>
+<path class="st0" d="M81.5,30.9l30.6,120.9H81.5V30.9z M112.1,30.9H81.5l30.6,120.9V30.9z"/>
+<path class="st0" d="M101.3,154.9l61.2,96.4h-61.2V154.9z M162.5,154.9h-61.2l61.2,96.4V154.9z"/>
+<path class="st0" d="M93.7,151.8l6.1,99.4h-6.1V151.8z M99.8,151.8h-6.1l6.1,99.4V151.8z"/>
+<path class="st0" d="M31,154.9l61.2,96.4H31V154.9z M92.2,154.9H31l61.2,96.4V154.9z"/>
+<polyline class="st1" points="0.4,251.2 193.1,251.2 193.1,0.4 0.4,0.4 0.4,251.2 "/>
+<polyline class="st2" points="81.5,151.8 112.1,151.8 112.1,30.9 81.5,30.9 81.5,151.8 "/>
+<polyline class="st2" points="93.7,251.2 99.8,251.2 99.8,151.8 93.7,151.8 93.7,251.2 "/>
+<polyline class="st2" points="101.3,251.2 162.5,251.2 162.5,154.9 101.3,154.9 101.3,251.2 "/>
+<polyline class="st2" points="31,251.2 92.2,251.2 92.2,154.9 31,154.9 31,251.2 "/>
+</svg>
